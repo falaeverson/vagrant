@@ -12,7 +12,7 @@ Configuração do Vagrant (com provisionamento em Shell Script) para criar uma m
 - SQLite
 - Git
 - Composer
-- Synfony
+- Symfony
 - cURL
 - Vim
 - Redis
